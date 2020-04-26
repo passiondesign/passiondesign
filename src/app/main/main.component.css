@@ -1,3 +1,8 @@
+.container {
+    width: 100%;
+
+}
+
 #banner {
     /* border: 1px solid black; */
     background-image: linear-gradient(to right, #ffb3c3, #f366ac);
