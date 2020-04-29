@@ -39,6 +39,8 @@
     padding-left: 20px;
 }
 
+/* test */
+
 .facebook-btn {
     /* border: 1px solid black; */
     width: 15%;
@@ -123,13 +125,15 @@
 
 .carousel-inner img {
     width: 100%;
-    height: 30%;
+    height: 25%;
 }
 
 
-/*---------------------------------/SLIDE-------------------------------*/
+/*-------------------------/teyyyyyst/--------/SLIDE-------------------------------*/
 
-
+#categories{
+max-width : 93%;
+}
 
 
 .service-img1 {
@@ -157,9 +161,9 @@
     margin-top: 20px;
 }
 
-.services {
+.categorie {
     /* border: 1px solid black; */
-    padding: 20px;
+    padding: 15px;
 }
 
 
